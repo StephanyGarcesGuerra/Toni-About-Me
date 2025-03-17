@@ -1,0 +1,108 @@
+body{
+    padding-left: 20px;
+    background-image:url(atlanta-transparent.png) ;
+    /* opacity: .3 ; */
+}
+h1{
+    color: #FF69B4;
+    display: flex;
+    text-align: center;
+}
+
+.title{
+    border: 5px solid aqua;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-radius: 30%;
+    background-color: aqua;
+
+    
+}
+h3{
+    display: inline;
+    border: 2px solid #FF69B4;
+    border-radius: 50%;
+    padding: 10px;
+}
+.roots{
+    padding-top: 20px;
+
+}
+.root-title{
+    background-color: #FF69B4;
+
+}
+
+.family{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.family-title{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF69B4;
+}
+
+.work{
+    padding-top: 20px;
+
+}
+.work-title{
+    background-color: #FF69B4;
+
+}
+.garden{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.garden-title{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF69B4;
+
+}
+
+.pictures{
+    display: flex;
+    padding-right: 100px;
+    /* background-color: black; */
+    justify-content: space-evenly;
+    border-radius: 20%;
+    padding-top: 20px;
+    
+    
+}
+.tomatoes{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 2px solid aqua;
+    /* padding: 20px; */
+}
+.onions{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 2px solid aqua;
+}
+
+.peppers{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 2px solid aqua;
+}
+
+p{
+    color:rgb(0, 0, 0) ;
+    text-shadow: #000000;
+    font-weight: 900;
+    font-family:monospace ;
+    font-size:14px;
+}
+
+.p-title{
+    color: black;
+}
